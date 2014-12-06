@@ -28,7 +28,7 @@ var buffer = writer.write({
 })
 
 var reader = mp.Reader();
-// returns arrsy of structured memcached packets
+// returns array of structured memcached packets
 var packets = reader.read(buffer)
 ```
 
