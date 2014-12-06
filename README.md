@@ -30,6 +30,9 @@ var buffer = writer.write({
 var reader = mp.Reader();
 // returns array of structured memcached packets
 var packets = reader.read(buffer)
+
+// reset state
+reader.reset();
 ```
 
 ## author
