@@ -1,0 +1,21 @@
+{
+  "name": "memcached-protocol",
+  "version": "1.0.0",
+  "description": "Fast memcached binary protocol implementation for Node.JS with binary packet reader / writer and corresponding streams2 stream interfaces.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eknkc/memcached-protocol.git"
+  },
+  "keywords": [
+    "memcached",
+    "binary",
+    "protocol"
+  ],
+  "author": "Ekin Koc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eknkc/memcached-protocol/issues"
+  },
+  "homepage": "https://github.com/eknkc/memcached-protocol"
+}
