@@ -1,6 +1,6 @@
 {
   "name": "memcached-protocol",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Fast memcached binary protocol implementation for Node.JS with binary packet reader / writer and corresponding streams2 stream interfaces.",
   "main": "index.js",
   "repository": {
